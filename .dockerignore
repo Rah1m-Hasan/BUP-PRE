@@ -1,0 +1,17 @@
+.git
+.env
+.venv
+__pycache__
+*.pyc
+.pytest_cache
+.ruff_cache
+.mypy_cache
+tests
+docs
+QA_REPORT.md
+SUBMISSION_CHECKLIST.md
+*.log
+.gitignore
+.env.example
+.dockerignore
+Makefile
